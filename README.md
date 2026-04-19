@@ -37,7 +37,7 @@ You can also ask it questions ("why did that fail?") via the built-in chat.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/sidvarmaa/sagacious.git
+git clone https://github.com/sidvarma/sagacious.git
 cd sagacious
 
 # 2. Install Tesseract (OCR engine)
